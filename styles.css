@@ -56,6 +56,7 @@ main {
   font-family: Crafty Girls, Times;
   font-size: 3.5vw;
   letter-spacing: 0.09rem;
+  font-weight: 800;
 }
 
 .open-times-middle {
@@ -63,21 +64,24 @@ main {
   font-family: Crafty Girls, Times;
   font-size: 3.5vw;
   letter-spacing: 0.09rem;
+  font-weight: 800;
 }
 
 .open-times-bottom {
-  font-family: Crafty Girls, Times
+  font-family: Crafty Girls, Times;
   font-size: 3.5vw;
   letter-spacing: 0.09rem;
-  font-family: Crafty Girls, Times;
+  font-weight: 800;
 }
 
 .price {
-  font-size: 3.5vw;
+  font-size: 3.3vw;
   white-space: nowrap;
   margin: 3%;
-  font-family: Cutive Mono, Times;
-  letter-spacing: 0.05rem;
+  font-family: Cutive, Times;
+  letter-spacing: 0.01rem;
+
+ 
 }
 
 .border {
@@ -95,7 +99,6 @@ main {
   display: flex;
   flex-direction: row;
   padding: 0;
-  Justify-content: flex-end;
   }
 
 .map {
@@ -185,7 +188,7 @@ legend {
   font-size: 2.5vw;
   white-space: nowrap;
   margin: 3%;
-  font-family: Cutive Mono, Times;
+  font-family: Cutive, Times;
   position: relative;
   left: 2%;
 }
