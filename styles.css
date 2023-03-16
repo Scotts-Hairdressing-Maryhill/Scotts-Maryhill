@@ -44,23 +44,23 @@ main {
   font-size: 5vw;
   white-space: nowrap;
   margin-top: 10%;
-  font-family: noteworthy, sans-serif;
+  font-family: Didot, sans-serif;
 }
 
 .open-times-top {
   margin-top: 5%;
-  font-family: Chalkduster, Times;
+  font-family: Comic Sans MS, Times;
   font-size: 3.5vw;
 }
 
 .open-times-middle {
   margin-top: -3%;
-  font-family: Chalkduster, Times;
+  font-family: Comic Sans MS, Times;
   font-size: 3.5vw;
 }
 
 .open-times-bottom {
-  font-family: Chalkduster, Times;
+  font-family: Comic Sans MS, Times;
   text-decoration: underline;
   font-size: 3.5vw;
 }
@@ -69,7 +69,8 @@ main {
   font-size: 3.5vw;
   white-space: nowrap;
   margin: 3%;
-  font-family: Lucida Grande, Times;
+  font-family: American Typewriter, Times;
+  letter-spacing: 0.1rem;
 }
 
 .border {
@@ -124,7 +125,7 @@ legend {
  @media screen and (min-width: 700px) {
 
 .top-image {
-  width: 70%;
+  width: 60%;
  }
  #left-man {
  width: 36.5%;
@@ -142,35 +143,35 @@ legend {
 }
  
 .price-list {
-  font-size: 4vw;
+  font-size: 3.5vw;
   white-space: nowrap;
   margin-top: 10%;
-  font-family: noteworthy, sans-serif;
+  font-family: Didot, sans-serif;
 }
 
 .open-times-top {
   margin-top: 5%;
-  font-family: Chalkduster, Times;
-  font-size: 2.5vw;
+  font-family: Comic Sans MS, Times;
+  font-size: 2.3vw;
 }
 
 .open-times-middle {
   margin-top: -3%;
-  font-family: Chalkduster, Times;
-  font-size: 2.5vw;
+  font-family: Comic Sans MS, Times;
+  font-size: 2.3vw;
 }
 
 .open-times-bottom {
-  font-family: Chalkduster, Times;
+  font-family: Comic Sans MS, Times;
   text-decoration: underline;
-  font-size: 2.5vw;
+  font-size: 2.3vw;
 }
 
 .price {
   font-size: 2.5vw;
   white-space: nowrap;
   margin: 3%;
-  font-family: Lucida Grande, Times;
+  font-family: American Typewriter, Times;
 }
 
 legend {
