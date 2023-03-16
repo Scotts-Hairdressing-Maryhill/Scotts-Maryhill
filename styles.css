@@ -46,31 +46,37 @@ main {
   margin-top: 10%;
   font-family: Bubbler One, sans-serif;
   font-weight: 600;
+  position: relative;
+  
+  
 }
 
 .open-times-top {
   margin-top: 5%;
-  font-family: Comic Sans MS, Times;
+  font-family: Crafty Girls, Times;
   font-size: 3.5vw;
+  letter-spacing: 0.09rem;
 }
 
 .open-times-middle {
   margin-top: -3%;
-  font-family: Comic Sans MS, Times;
+  font-family: Crafty Girls, Times;
   font-size: 3.5vw;
+  letter-spacing: 0.09rem;
 }
 
 .open-times-bottom {
-  font-family: Comic Sans MS, Times;
-  text-decoration: underline;
+  font-family: Crafty Girls, Times
   font-size: 3.5vw;
+  letter-spacing: 0.09rem;
+  font-family: Crafty Girls, Times;
 }
 
 .price {
   font-size: 3.5vw;
   white-space: nowrap;
   margin: 3%;
-  font-family: American Typewriter, Times;
+  font-family: Cutive Mono, Times;
   letter-spacing: 0.05rem;
 }
 
@@ -82,13 +88,14 @@ main {
 } 
 
 .over {
-  margin-left: -1%
+  margin-left: -1%;
 }
 
 .flex {
   display: flex;
   flex-direction: row;
   padding: 0;
+  Justify-content: flex-end;
   }
 
 .map {
@@ -131,14 +138,14 @@ legend {
  #left-man {
  width: 36.5%;
  position: relative;
- left: 32%;
+ left: 34%;
  padding-bottom: 50%;
 }
  
 #right-man {
  width: 39%;
  position: relative;
- left: -33%;
+ left: -28%;
  padding-bottom: 40%;
   
 }
@@ -148,31 +155,39 @@ legend {
   white-space: nowrap;
   margin-top: 10%;
   font-family: Bubbler One, sans-serif;
+  left: 2%;
 }
 
 .open-times-top {
   margin-top: 5%;
-  font-family: Comic Sans MS, Times;
+  font-family: Crafty Girls, Times;
   font-size: 2.3vw;
+  position: relative;
+  left: 2%;
 }
 
 .open-times-middle {
   margin-top: -3%;
-  font-family: Comic Sans MS, Times;
+  font-family: Crafty Girls, Times;
   font-size: 2.3vw;
+  position: relative;
+  left: 2%;
 }
 
 .open-times-bottom {
-  font-family: Comic Sans MS, Times;
-  text-decoration: underline;
+  font-family: Crafty Girls, Times;
   font-size: 2.3vw;
+  position: relative;
+  left: 2%;
 }
 
 .price {
   font-size: 2.5vw;
   white-space: nowrap;
   margin: 3%;
-  font-family: American Typewriter, Times;
+  font-family: Cutive Mono, Times;
+  position: relative;
+  left: 2%;
 }
 
 legend {
@@ -183,5 +198,8 @@ p {
   margin: 0;
   text-align: center;
   padding: 1%;
+}
+.over {
+  margin-left: -1.5%
 }
 }
