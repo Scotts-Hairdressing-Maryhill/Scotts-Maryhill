@@ -41,10 +41,11 @@ main {
 }
  
 .price-list {
-  font-size: 5vw;
+  font-size: 7vw;
   white-space: nowrap;
   margin-top: 10%;
-  font-family: Didot, sans-serif;
+  font-family: Bubbler One, sans-serif;
+  font-weight: 600;
 }
 
 .open-times-top {
@@ -70,7 +71,7 @@ main {
   white-space: nowrap;
   margin: 3%;
   font-family: American Typewriter, Times;
-  letter-spacing: 0.1rem;
+  letter-spacing: 0.05rem;
 }
 
 .border {
@@ -143,10 +144,10 @@ legend {
 }
  
 .price-list {
-  font-size: 3.5vw;
+  font-size: 5.5vw;
   white-space: nowrap;
   margin-top: 10%;
-  font-family: Didot, sans-serif;
+  font-family: Bubbler One, sans-serif;
 }
 
 .open-times-top {
